@@ -1,0 +1,51 @@
+Order ID,Product Category,Order Date,Delivery Date,Return Date,Order Status,Price
+1001,Electronics,2024-01-02,2024-01-07,,Delivered,15999
+1002,Clothing,2024-01-03,2024-01-08,2024-01-12,Returned,1299
+1003,Home & Kitchen,2024-01-04,2024-01-10,,Delivered,3450
+1004,Electronics,2024-01-05,,,Cancelled,24999
+1005,Clothing,2024-01-06,2024-01-11,2024-01-15,Returned,899
+1006,Beauty,2024-01-07,2024-01-12,,Delivered,549
+1007,Electronics,2024-01-08,2024-01-14,2024-01-18,Returned,7999
+1008,Books,2024-01-09,2024-01-13,,Delivered,399
+1009,Home & Kitchen,2024-01-10,,,Cancelled,5699
+1010,Clothing,2024-01-11,2024-01-16,,Delivered,1899
+1011,Electronics,2024-01-12,2024-01-18,,Delivered,12499
+1012,Beauty,2024-01-13,2024-01-17,2024-01-21,Returned,799
+1013,Books,2024-01-14,2024-01-18,,Delivered,299
+1014,Clothing,2024-01-15,,,Cancelled,2499
+1015,Home & Kitchen,2024-01-16,2024-01-22,,Delivered,8999
+1016,Electronics,2024-01-17,2024-01-23,2024-01-27,Returned,4599
+1017,Beauty,2024-01-18,2024-01-22,,Delivered,1249
+1018,Books,2024-01-19,2024-01-23,,Delivered,599
+1019,Clothing,2024-01-20,2024-01-25,2024-01-29,Returned,1599
+1020,Home & Kitchen,2024-01-21,,,Cancelled,6799
+1021,Electronics,2024-01-22,2024-01-28,,Delivered,19999
+1022,Clothing,2024-01-23,2024-01-28,,Delivered,749
+1023,Beauty,2024-01-24,2024-01-29,2024-02-02,Returned,1899
+1024,Books,2024-01-25,2024-01-29,,Delivered,449
+1025,Home & Kitchen,2024-01-26,2024-02-01,,Delivered,4299
+1026,Electronics,2024-01-27,,,Cancelled,32999
+1027,Clothing,2024-01-28,2024-02-02,2024-02-06,Returned,3299
+1028,Beauty,2024-01-29,2024-02-03,,Delivered,699
+1029,Books,2024-01-30,2024-02-03,,Delivered,199
+1030,Home & Kitchen,2024-01-31,2024-02-05,2024-02-09,Returned,7499
+1031,Electronics,2024-02-01,2024-02-07,,Delivered,9999
+1032,Clothing,2024-02-02,2024-02-07,,Delivered,1099
+1033,Beauty,2024-02-03,,,Cancelled,2499
+1034,Books,2024-02-04,2024-02-08,,Delivered,349
+1035,Home & Kitchen,2024-02-05,2024-02-10,2024-02-14,Returned,5199
+1036,Electronics,2024-02-06,2024-02-12,2024-02-16,Returned,6499
+1037,Clothing,2024-02-07,2024-02-12,,Delivered,1799
+1038,Beauty,2024-02-08,2024-02-13,,Delivered,899
+1039,Books,2024-02-09,2024-02-13,,Delivered,499
+1040,Home & Kitchen,2024-02-10,,,Cancelled,3999
+1041,Electronics,2024-02-11,2024-02-17,,Delivered,14999
+1042,Clothing,2024-02-12,2024-02-17,2024-02-21,Returned,2199
+1043,Beauty,2024-02-13,2024-02-18,,Delivered,1599
+1044,Books,2024-02-14,2024-02-18,,Delivered,279
+1045,Home & Kitchen,2024-02-15,2024-02-20,,Delivered,9499
+1046,Electronics,2024-02-16,2024-02-22,,Delivered,21999
+1047,Clothing,2024-02-17,,,Cancelled,999
+1048,Beauty,2024-02-18,2024-02-23,2024-02-27,Returned,1349
+1049,Books,2024-02-19,2024-02-23,,Delivered,649
+1050,Home & Kitchen,2024-02-20,2024-02-25,2024-03-01,Returned,6299
